@@ -1,0 +1,66 @@
+#customize-controls .control-section-sara-log .accordion-section-title:hover,
+#customize-controls .control-section-sara-log .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-sara-log .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+	.rtl .control-section-sara-log .accordion-section-title .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}
+	.at-pro {
+		background: #E80F0F!important;
+		color: #fff!important;
+		box-shadow: none!important;
+	}
+.at-pro:hover {
+	background: #E80F0F!important;
+	color: #fff!important;
+}
+
+
+.customize-control-checkbox label{
+    font-weight: 600;
+}
+.customize-control-checkbox input[type=checkbox] {
+    width: 35px;
+    height: 15px;
+    background: grey;
+    border-radius: 100px;
+    position: relative;
+    border: none;
+    min-width: 0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+.customize-control-checkbox input[type=checkbox]:checked:before{
+    display: none;
+}
+.customize-control-checkbox input[type=checkbox]:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 15px;
+    height: 15px;
+    background: #fff;
+    border-radius: 90px;
+    transition: 0.3s;
+}
+.customize-control-checkbox input:checked{
+    background: #E42256;
+}
+.customize-control-checkbox input:checked:after {
+    left: calc(100% - 0px);
+    transform: translateX(-100%);
+}
+.customize-control-checkbox input:active:after {
+    width: 15px;
+}
+
+
+ 

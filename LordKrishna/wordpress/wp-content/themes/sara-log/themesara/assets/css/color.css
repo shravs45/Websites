@@ -1,0 +1,195 @@
+/*============================================================
+   Red Background Color
+   ============================================================*/
+   .btn-colored, .menu-bar .sub-menu li a:hover, .tagline, .post-tag, .owl-nav .owl-prev, .owl-nav .owl-next,
+   .owl-carousel.style2 .share-post, .owl-carousel.style3 .owl-dots .owl-dot.active, .owl-carousel.style3 .owl-dots .owl-dot:hover,
+   .menu-bar.style-3, .menu-bar.style-4 .sub-menu,
+   .owl-carousel.style4 .slide-content .indata .p-link,
+   .img-caption,
+    
+   .menu-bar.style-5 .sub-menu,
+   .blog-inner-gallery .slide .overlay-data .icon-magnifying-glass,
+   .blog-tags ul li a:hover,
+   .sara-log-post-nav .arrow,
+   .btn-dark:hover,
+   .sara-log-pagination ul li.active a,
+   .sara-log-pagination ul li:hover a,
+   #backTop,
+   .dl-menuwrapper button,
+   .sara-log-modal .modal-heading,
+   .blog-post-meta ul li.posted-on,.blog-post-meta ul li,
+   .post-meta ul.single-meta li,
+   .blog-post .post-content .post-title  .line,
+   .sara-log-topbar,.everest-forms button.button:not(.button-large), .everest-forms button[type=submit]
+   {
+     background-color: #E42256;
+   }
+
+/*============================================================
+   Red Background Color With Transparency
+   ============================================================*/
+   .sara-log-categories-style-1 .cat-box:hover > .overlay, .sara-log-categories-style-2 .cat-box:hover > .overlay,
+   .sara-log-categories-style-3 .cat-box:hover > .overlay,
+   .sara-log-breadcrumb:before, .sara-log-related-posts .related-post .post-img:after,
+   .widget.instagram-feeds ul li:before,
+   .sara-log-blog-grid .blog-post .post-content .btn:before,
+   .sara-log-blog-grid .blog-post .post-content .btn:after,
+   .menu-wrapper,
+   .sara-log-sidebar .widget.about-author,
+   .ribbon
+   {
+     background-color: #E42256;
+   }
+
+
+/*============================================================
+   White  Color 
+   ============================================================*/
+   .menu-bar ul li a,.menu-bar ul li.menu-item-has-children:after,
+   .sara-log-sidebar .widget.about-author,.about-author .author-description,
+   .about-author .social-icons ul li a,.everest-forms button.button:not(.button-large), .everest-forms button[type=submit]
+   {
+     color: #fff;
+   }
+
+/*============================================================
+   White Background  Color 
+   ============================================================*/
+.sara-log-topbar  ul.header-menu li a:hover,.menu-bar ul li a:hover,.menu-bar ul li a:focus,.menu-bar ul li a:active{
+    background: #fff;
+}
+
+/*============================================================
+   Red Font and Icons Color
+   ============================================================*/
+   a:hover, .sara-log-topbar.white .social-icons ul li a:hover,
+   .widget.twitter-feeds .feeds-list li a,
+   .widget.twitter-feeds .feeds-list li p span,
+   .sara-log-blog-list.full .con .share-post .icon-share,
+   .widget.recent-comments .comment-posts .comment-content a:hover,
+   .ts-author-detail .full-detail a,
+   .sara-log-bottom-bar .bottom-nav li a:hover,.sara-log-bottom-bar .bottom-nav li:focus
+   {
+     color: #f13658 ;
+   }
+
+/*============================================================
+   Red Border Color
+   ============================================================*/
+   .footer.centered .about-company hr,
+   blockquote,.widget-heading,
+   textarea.form-control:focus, textarea.form-control:active, input.form-control:active, input.form-control:focus,.btn-colored:hover
+   {
+     border-color: #f13658;
+   }
+
+/*============================================================
+   White  Border Color
+   ============================================================*/
+   .sara-log-sidebar .widget.about-author .widget-heading
+   {
+     border-color: #fff;
+   }
+
+   
+
+/*============================================================
+   Dark Font and Icons Color
+   ============================================================*/
+   .sara-log-topbar.white .social-icons ul li a, .sara-log-topbar.white .search-area .lang-change .icon-worlwide, .sara-log-topbar.white .search-area .lang-change select,
+   .widget.twitter-feeds .feeds-list li a:hover,.sara-log-topbar  ul.header-menu li a:hover,.menu-bar ul li a:hover,.menu-bar ul li a:focus,.menu-bar ul li a:active,
+   .about-author .social-icons ul li a:hover
+   {
+     color: #282828;
+   }
+
+/*============================================================
+   Dark Background Color
+   ============================================================*/
+   .btn-colored:hover,
+   .btn-dark,
+   .search-area .lang-change select,
+   .owl-nav .owl-prev:hover, .owl-nav .owl-next:hover,
+   .footer.basic, .owl-carousel.style2 .slide-content,
+   .sara-log-categories-style-2 .cat-box .content, .footer.centered,
+   .sara-log-categories-style-3 .content,
+   .menu-bar.style-4,
+   .menu-bar.style-4 .sub-menu li a:hover,
+   .owl-carousel.style4 .slide-content .indata .p-link:hover,
+   .menu-bar.style-5, .menu-bar.style-5 .sub-menu li a:hover,
+   .blog-inner-gallery .slide .overlay-data .icon-magnifying-glass:hover,
+   .sara-log-post-nav .arrow:hover,
+   #backTop:hover,
+   .dl-menuwrapper .dl-menu
+   {
+     background-color: #282828;
+     
+   }
+
+/*============================================================
+   Transition
+   ============================================================*/
+   a, .menu-bar ul li a, .btn, .sara-log-topbar .social-icons ul li a, .menu-bar .sub-menu, .menu-bar .sub-menu *,.share-post ul li,
+   .sara-log-categories-style-1 .cat-box .overlay, .owl-nav .owl-prev, .owl-nav .owl-next,
+   footer .social-bar ul li a span,
+   footer .social-bar ul li,
+   .sara-log-categories-style-2 .cat-box .overlay,
+   .owl-carousel.style3 .owl-dots .owl-dot,
+   .sara-log-categories-style-3 .overlay, .owl-carousel.style4 .slide-content, .owl-carousel.style4 .slide-content *,
+   .blog-inner-gallery .slide .overlay-data .icon-magnifying-glass,
+   .blog-inner-gallery .slide .overlay-data,
+   .sara-log-lightbox,
+   .sara-log-related-posts .related-post .post-img:after,
+   .widget.recent-comments .comment-posts .comment-thumbnail img,
+   .widget.instagram-feeds ul li:before, .share-post ul,
+   #backTop
+   {
+    transition:all ease 0.5s;
+    -webkit-transition:all ease 0.5s;
+    -moz-transition:all ease 0.5s;
+    -o-transition:all ease 0.5s;
+    -ms-transition:all ease 0.5s;	
+
+    
+
+  }
+
+  /*** Selection Color ****/
+
+  ::selection {
+    background: #f13658;
+    color:#ffffff;
+  }
+  ::-webkit-selection {
+    background: #f13658;
+    color: #ffffff;
+  }
+  ::-moz-selection {
+    background: #f13658;
+    color: #ffffff;
+  }
+
+  h1.site-title a{
+    font-size: 40px;
+    line-height: 1.5;
+    color: #f13658;
+    text-transform: uppercase;
+    position: relative;
+    letter-spacing: 2px;
+    border: 8px inset #E42256;
+    padding: 0px 15px;
+    display: inline-block;
+    text-shadow: 0px 2px 2px #050505fa;
+  }
+  
+  h1.site-title a:after{
+    bottom: 0px;
+    top: auto;
+     
+  }
+
+
+  @keyframes dynamiccolor {
+  from {background-color: #f13658;}
+  to {background-color: #2c3e50;}
+}
